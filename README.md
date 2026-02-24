@@ -8,13 +8,12 @@ Objectif : Prétraiter les données, entraîner un modèle de prédiction et le 
 
 ## ⚙️ Installation
 
-### 1. Cloner le projet
-git clone https://github.com/votre_user/projet_ml_retail.git
 
-### 2. Créer l'environnement virtuel
+
+### 1. Créer l'environnement virtuel
 python -m venv venv
 
-### 3. Activer l’environnement
+### 2. Activer l’environnement
 Windows:
 venv\Scripts\activate
 
